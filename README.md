@@ -52,5 +52,5 @@ license as that used by [golang](https://golang.org/LICENSE) itself.
 
 ## Reporting bugs
 
-Use the [github geom bug
+Use the [github `binpack` bug
 tracker](https://github.com/tinkerator/binpack/issues).
